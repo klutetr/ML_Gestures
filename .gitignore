@@ -30,3 +30,6 @@ dist/
 # Cache
 .pytest_cache/
 .mypy_cache/
+
+# AI Tools
+.CLAUDE.md
